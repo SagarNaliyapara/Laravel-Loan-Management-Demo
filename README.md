@@ -4,7 +4,7 @@ It is a demo project for demonstrating of Business Process Management in Laravel
 
 ## How to use
 
-- Clone the repository with __git clone__
+- Clone the repository with __git clone __
 - Copy __.env.example__ file to __.env__ and edit database credentials there
 - Run __composer install__
 - Run __php artisan key:generate__
